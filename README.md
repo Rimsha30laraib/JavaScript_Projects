@@ -9,4 +9,6 @@ Here are some of the exciting JavaScript projects I've been working on. Feel fre
 | **Calculator**   | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects/tree/main/Calculator) | [Demo](https://darling-kangaroo-7915f9.netlify.app/) |
 | **Password Generator**  | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects/tree/main/Password-Generator) | [Demo](https://spontaneous-pasca-614ba8.netlify.app/)|
 | **Weather App**   | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects/tree/main/Weather-App) | [Demo](https://magenta-haupia-095bd0.netlify.app/) |
+| **Portfolio**   | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects/tree/main/Portfolio) | [Demo](https://superlative-blancmange-7b5fef.netlify.app/) |
+
 
