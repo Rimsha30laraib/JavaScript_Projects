@@ -1,1 +1,5 @@
+Password Generator
+
+Description: A web-based tool that generates secure passwords. Users can adjust the password length and include/exclude character types (uppercase, lowercase, numbers, special characters).
+Features: Dynamic length adjustment, customizable character options, and a user-friendly interface.
 
